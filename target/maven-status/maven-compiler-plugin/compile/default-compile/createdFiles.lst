@@ -1,0 +1,7 @@
+com\oneoonecode\swaggercrashcourse\controllers\GetAllToDoItems.class
+com\oneoonecode\swaggercrashcourse\SwaggercrashcourseApplication.class
+com\oneoonecode\swaggercrashcourse\controllers\UpdateToDoItem.class
+com\oneoonecode\swaggercrashcourse\models\ToDoItem.class
+com\oneoonecode\swaggercrashcourse\controllers\CreateToDoItem.class
+com\oneoonecode\swaggercrashcourse\controllers\DeleteToDoItem.class
+com\oneoonecode\swaggercrashcourse\controllers\GetToDoItemById.class

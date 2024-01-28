@@ -1,0 +1,20 @@
+Swagger editor url
+------------------
+https://editor.swagger.io/
+
+Maven dependency 
+----------------
+SpringDoc OpenAPI UI » 1.7.0
+<!-- https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-ui -->
+<dependency>
+    <groupId>org.springdoc</groupId>
+    <artifactId>springdoc-openapi-ui</artifactId>
+    <version>1.7.0</version>
+</dependency>
+
+http://localhost:8080/swagger-ui/index.html#/get-to-do-item-by-id/getToDoItemById
+
+
+https://github.com/moaaz-nashawi/swagger-crash-course
+https://www.youtube.com/watch?v=0vqgWQIVfMI
+http://localhost:8080/swagger-ui/index.html#/
